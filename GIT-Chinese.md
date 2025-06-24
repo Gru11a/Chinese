@@ -12,4 +12,7 @@
 
 
 ### Material
-## [Saludos](https://github.com/Gru11a/Chinese/blob/master/Saludos.pdf)
+## 1-[Saludos](https://github.com/Gru11a/Chinese/blob/master/Saludos.pdf)
+
+## 2-[Trazos](https://github.com/Gru11a/Chinese/blob/master/2-Trazos.pdf)
+
