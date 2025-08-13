@@ -16,3 +16,6 @@
 
 ## 2-[Trazos](https://github.com/Gru11a/Chinese/blob/master/2-Trazos.pdf)
 
+## 3-[Tonos](https://github.com/Gru11a/Chinese/blob/master/3-Tonos.pdf)
+
+## 4-[Numeros](https://github.com/Gru11a/Chinese/blob/master/4-Numeros.pdf)
